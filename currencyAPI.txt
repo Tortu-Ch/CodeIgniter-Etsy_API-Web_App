@@ -1,0 +1,4 @@
+https://free.currencyconverterapi.com/verify-email?token=3e1a52dcab4f1d0d86ca
+3e1a52dcab4f1d0d86ca
+
+https://free.currconv.com/api/v7/convert?apiKey=3e1a52dcab4f1d0d86ca&q=AUD_USD&compact=y
